@@ -1,4 +1,4 @@
-Grizzly-Jersey-Spring-Spring-Security
+Grizzly + Jersey + Spring + Spring Security
 =====================================
 
 It is a very simple example which shows how to combine Jersy, Spring, Spring Security 
